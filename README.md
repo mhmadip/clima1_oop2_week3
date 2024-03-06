@@ -2,14 +2,10 @@
 This project is taken from the course below.
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-## Our Goal for Today 22 Feb 2024
-1- Adding permission to the Android App
-2- Add http package to make the network request
-3- Get weather data from the API
-4- Add loading indicator in the LoadingScreen
-5- Send weather data from LoadingScreen to the LocationScreen
-6- Update data in the LocationScreen to be shown on the UI
-7- Explore JSON code of the openweathermap.org API
+## Our Goal for Today 7 March 2024
+1- Fixing CityScreen and LocationScreen
+2- Creating a new method for getting the weather data from the network based on the city name
+3- export the apk file and test it on a real device
 
 The objective of this tutorial is to learn about asynchronous programming in Dart. We'll look at how to carry out time consuming tasks such as getting device location and networking to get data from the internet.
 
